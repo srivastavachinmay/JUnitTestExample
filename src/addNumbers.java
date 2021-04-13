@@ -1,6 +1,6 @@
 import static org.junit.Assert.assertEquals;
 
-class addNumbers {
+public class addNumbers {
 
     @org.junit.jupiter.api.Test
     void addNumbers() {
